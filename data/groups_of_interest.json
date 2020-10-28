@@ -1,0 +1,32 @@
+{
+    "gender": [
+        {
+            "description": "female",
+            "column_value": "Female"
+        },
+        {
+            "description": "male",
+            "column_value": "Male"
+        }
+    ],
+    "ethnicity": [
+        {
+            "description": "african-american",
+            "column_value": "Black"
+        },
+        {
+            "description": "european-american",
+            "column_value": "White"
+        }
+    ],
+    "age_groups": [
+        {
+            "description": "22-below",
+            "column_value": "<23"
+        },
+        {
+            "description": "23-up",
+            "column_value": "23+"
+        }
+    ]
+}

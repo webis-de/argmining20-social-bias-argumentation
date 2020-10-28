@@ -1,0 +1,52 @@
+# https://www.npmjs.com/package/getignore
+
+###############################
+# Laguage
+#==Python
+
+##############################
+# Data
+data/*
+!data/.gitkeep
+!data/groups_of_interest.json
+!data/lexical-analysis-lexicon.json
+!data/positive-words.txt
+!data/negative-words.txt
+output/*
+!output/.gitkeep
+!output/glove/
+output/glove/*
+!output/glove/.gitkeep
+!output/glove/splits/
+output/glove/splits/*
+!output/glove/splits/.gitkeep
+!output/weat_cooccurrence_analysis
+output/weat_cooccurrence_analysis/*
+!output/weat_cooccurrence_analysis/.gitkeep
+!output/embedding_model_evaluation
+output/embedding_model_evaluation/*
+!output/embedding_model_evaluation/.gitkeep
+!output/glove_format
+output/glove_format/*
+!output/glove_format/.gitkeep
+!output/glove_format/splits
+output/glove_format/splits/*
+!output/glove_format/splits/.gitkeep
+!output/lexical_corpus_evaluation
+output/lexical_corpus_evaluation/*
+!output/lexical_corpus_evaluation/.gitkeep
+!output/stability_tests
+output/stability_tests/*
+!output/stability_tests/.gitkeep
+word_vectors/*
+!word_vectors/.gitkeep
+
+##############################
+# Misc
+tinker.ipynb
+.python-version
+.node-version
+
+##############################
+# Editors
+.vscode
