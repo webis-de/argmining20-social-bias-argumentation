@@ -1,14 +1,18 @@
 # Assessing Social Bias in Argumentation
 
-This repository contains code to reproduce the results of the paper "Argument from Old Man’s View: Assessing Social Bias in Argumentation", as presented at the ArgMining'20 workshop. Please find the full reference below:
+This repository contains code to reproduce the results of the paper ["Argument from Old Man’s View: Assessing Social Bias in Argumentation"](https://www.aclweb.org/anthology/2020.argmining-1.9/), as presented at the ArgMining'20 workshop. Please find the full reference below:
 
 ```
-@inproceedings{spliethoever-2020,
-    title     = "Argument from Old Man's View: Assessing Social Bias in Argumentation",
-    author    = {Splieth{\"o}ver, Maximilian and Wachsmuth, Henning},
-    booktitle = Proceedings of the 7th Workshop on Argument Mining,
-    month     = aug,
-    year      = 2020
+@inproceedings{spliethover-wachsmuth-2020-argument,
+    title = "Argument from Old Man{'}s View: Assessing Social Bias in Argumentation",
+    author = {Splieth{\"o}ver, Maximilian and Wachsmuth, Henning},
+    booktitle = "Proceedings of the 7th Workshop on Argument Mining",
+    month = dec,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.argmining-1.9",
+    pages = "76--87"
 }
 ```
 
